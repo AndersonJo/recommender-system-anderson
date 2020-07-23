@@ -1,0 +1,7 @@
+# Project
+.idea
+.ipynb_checkpoints
+venv
+
+# Python
+*.pyc
